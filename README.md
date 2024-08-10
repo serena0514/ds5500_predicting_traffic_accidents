@@ -32,7 +32,12 @@ interface.
 
 The purpose of this file is to save the final model created in Train_Vehicle_Accident_Severity_Model.ipynb and utilize this model within the
 interface. The details of the file cannot be viewed directly on this repository. However, if necessary, the file can be downloaded to extract the
-file contents.
+file contents. This file is needed to utilize the interface.
+
+### Predict_From_User_Input.ipynb
+
+The purpose of this file is to integrate the final model stored in random_forest_accident_likelihood_model.pkl to the user interface. This file is needed
+to utilize the interface.
 
 ### Interface file (change to name of file)
 

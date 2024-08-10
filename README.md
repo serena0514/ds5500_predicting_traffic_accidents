@@ -35,3 +35,10 @@ interface. The details of the file cannot be viewed directly on this repository.
 file contents.
 
 ### Interface file (change to name of file)
+
+## Project Contributors
+
+Matthew Quaglia
+Dachuan Zhang
+Sri Lakshmi Tirupathamma Manduri
+Serena (Jiahui) Zeng

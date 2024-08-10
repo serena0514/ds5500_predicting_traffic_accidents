@@ -38,7 +38,7 @@ file contents.
 
 ## Project Contributors
 
-Matthew Quaglia
-Dachuan Zhang
-Sri Lakshmi Tirupathamma Manduri
-Serena (Jiahui) Zeng
+Matthew Quaglia          
+Dachuan Zhang         
+Sri Lakshmi Tirupathamma Manduri         
+Serena (Jiahui) Zeng        

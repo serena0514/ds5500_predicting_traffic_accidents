@@ -36,6 +36,10 @@ file contents.
 
 ### Interface file (change to name of file)
 
+## Running the interface
+
+*include steps on getting interface running and how to use the interface (will likely have overlap with methodological impact)
+
 ## Project Contributors
 
 Matthew Quaglia          

@@ -66,8 +66,9 @@ All files ending with .csv are data used within the project.
 
 ## Running The Interface
 
-*include steps on getting interface running and how to use the interface (will likely have overlap with methodological impact)
+After downloading County.json and all csv files, the application can be run with app.py. Due to complexities in running the interface due to downloads and dependencies, we have provided a link to a Demo of the interface for those unable to run locally on their machine. Our next steps in this project are to run the interface on a cloud-based site for a simpler way to access the tool. See the link below to view the Demo:
 
+[Demo](https://drive.google.com/file/d/1oIyiKZkNNMDKG4tYOKJScjLyxO4EsDGm/view?usp=drive_link)
 
 ## Project Contributors
 

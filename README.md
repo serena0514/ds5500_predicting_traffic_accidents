@@ -11,7 +11,7 @@ visuals to give insights on historical conditions that pertain to car-accidents 
 
 ### EDA_Vehicle_Accident_Severity.ipynb
 
-*** add description
+The purpose of this file is to show users the Exploratory Analysis we performed before training the final model.
 
 ### Chunking_Dataset.ipynb
 
@@ -36,20 +36,33 @@ The purpose of this file is to save the final model created in Train_Vehicle_Acc
 interface. The details of the file cannot be viewed directly on this repository. However, if necessary, the file can be downloaded to extract the
 file contents. This file is needed to utilize the interface.
 
-### final_data.csv
-
-*** add description
-
 ### Predict_From_User_Input.ipynb
 
 The purpose of this file is to integrate the final model stored in random_forest_accident_likelihood_model.pkl to the user interface. This file is needed
 to utilize the interface.
 
+### predict_for_city.py
+
+This file contains a great deal of overlap with Predict_From_User_Input.ipynb. The purpose is to integrate the final model with the user interface.
+
 ### 5500trafficFlowData.ipynb
 This file provide an example use of the Tom Tom api to provide a real time traffic flow speed information of a certain location based on logtitude and latitude. It can be used as an extra information for users to understand the traffic and traffic accidents or that it can be corporate with the traffic accident rates model in the future to help with better estimate.
 
+### utils.py
 
-### Interface file (change to name of file)
+The purpose of this file is to make useful functions within our project available to users.
+
+### County.json
+
+The purpose of this file is to organize on a county level.
+
+### app.py
+
+The purpose of this file is to run the final interface.
+
+### CSV files
+
+All files ending with .csv are data used within the project.
 
 ## Running The Interface
 

@@ -9,7 +9,9 @@ visuals to give insights on historical conditions that pertain to car-accidents 
 
 ## File Descriptions
 
-### EDA (change to name of file)
+### EDA_Vehicle_Accident_Severity.ipynb
+
+*** add description
 
 ### Chunking_Dataset.ipynb
 

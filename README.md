@@ -4,7 +4,7 @@
 The Snow and Ice Removal Prioritizer is a tool designed to assist city officials in determining what areas of a city are most likely to
 experience accidents with a high severity. The tool can be used to determine the order in which snow and ice removal efforts, such as snow
 plowing and preventative salt placement, that would be most beneficial for reducing overall accident occurrence and accident severity throughout
-the day. The final output of the Prioritizer is a list based on coordinates for the specified city. The interface displays additional interactive
+the day. The final output of the Prioritizer is a ranked list of coordinates to the third decimal point for the specified city with a Severity rating of average accident likelihood throughout the day. The interface displays additional interactive
 visuals to give insights on historical conditions that pertain to car-accidents and factors that may affect the likelihood.
 
 ## File Descriptions

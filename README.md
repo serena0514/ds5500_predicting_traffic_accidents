@@ -51,6 +51,10 @@ to utilize the interface.
 
 *include steps on getting interface running and how to use the interface (will likely have overlap with methodological impact)
 
+### 5500trafficFlowData.ipynb
+This file provide an example use of the Tom Tom api to provide a real time traffic flow speed information of a certain location based on logtitude and latitude. It can be used as an extra information for users to understand the traffic and traffic accidents or that it can be corporate with the traffic accident rates model in the future to help with better estimate.
+
+
 ## Project Contributors
 
 Matthew Quaglia          
